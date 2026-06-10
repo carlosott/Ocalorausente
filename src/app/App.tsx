@@ -13,7 +13,7 @@ const exhibitionPhotos = [
 		id: 1,
 		title: "Colo",
 		caption:
-			"Há um contorno no chão — a forma de um corpo que um dia existiu ali. No lugar dos braços que deveriam estar, uma boneca de pano. É o afeto substituído, o vazio que ganha forma. A criança aprende a abraçar o que tem, mesmo quando o que tem não é quem ela precisava.",
+			"Há um contorno no chão — a forma de um corpo que um dia existiu ali. No lugar dos braços que deveriam estar, um boneco de pano. É o afeto substituído, o vazio que ganha forma. A criança aprende a abraçar o que tem, mesmo quando o que tem não é quem ela precisava.",
 		accent: "#E8B4A0",
 		image: photo1,
 	},
