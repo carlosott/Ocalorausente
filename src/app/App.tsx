@@ -13,7 +13,7 @@ const exhibitionPhotos = [
 		id: 1,
 		title: "Colo",
 		caption:
-			"Há um contorno no chão — a forma de um corpo que um dia existiu ali. No lugar dos braços que deveriam estar, um boneco de pano. É o afeto substituído, o vazio que ganha forma. A criança aprende a abraçar o que tem, mesmo quando o que tem não é quem ela precisava.",
+			"Há um contorno no chão — a forma de um corpo que um dia existiu ali. No lugar dos braços que deveriam estar, um bichinho de pelúcia. É o afeto substituído, o vazio que ganha forma. A criança aprende a abraçar o que tem, mesmo quando o que tem não é quem ela precisava.",
 		accent: "#E8B4A0",
 		image: photo1,
 	},
@@ -21,7 +21,7 @@ const exhibitionPhotos = [
 		id: 2,
 		title: "Mais um dia",
 		caption:
-			"A placa diz 'Sala de Cirurgia'. As cadeiras estão vazias, exceto por um bichinho de pelúcia sentado sozinho. Quem o deixou ali? Quem deveria estar ao lado dele? A espera é uma forma de abandono que ninguém nomeia — e a criança aprende cedo a sentar nessa cadeira.",
+			"A placa diz 'Sala de Cirurgia'. As cadeiras estão vazias, exceto por um bichinho de pelúcia sentado sozinho. Quem o deixou ali? Quem deveria estar ao lado dele? A espera é uma forma de abandono que ninguém nomeia — e a criança aprendeu cedo a sentar nessa cadeira.",
 		accent: "#A0B4C8",
 		image: photo2,
 	},
@@ -29,7 +29,7 @@ const exhibitionPhotos = [
 		id: 3,
 		title: "Antes tarde, do que nunca",
 		caption:
-			"Ela ainda espera. Sentada nos degraus, com o boneco no colo, enquanto o movimento ao redor segue sem pausar por ela. A mãe vai chegar? Não. Mas ela continua à esperar.",
+			"Ela ainda espera. Sentada nos degraus, com o bichinho de pelúcia ao lado, enquanto o movimento ao redor segue sem pausar por ela. A mãe vai chegar? Não. Mas ela continua a esperar.",
 		accent: "#C8A090",
 		image: photo3,
 	},
