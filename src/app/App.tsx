@@ -21,7 +21,7 @@ const exhibitionPhotos = [
 		id: 2,
 		title: "Mais um dia",
 		caption:
-			"Um bichinho de pelúcia sentado sozinho em cadeiras de espera diante da placa 'Sala de Cirurgia 121-A'.",
+			"A placa diz 'Sala de Cirurgia'. As cadeiras estão vazias, exceto por um bichinho de pelúcia sentado sozinho. Quem o deixou ali? Quem deveria estar ao lado dele? A espera é uma forma de abandono que ninguém nomeia — e a criança aprende cedo a sentar nessa cadeira.",
 		accent: "#A0B4C8",
 		image: photo2,
 	},
@@ -29,7 +29,7 @@ const exhibitionPhotos = [
 		id: 3,
 		title: "Antes tarde, do que nunca",
 		caption:
-			"Criança sentada em degraus de uma escada, segurando um boneco de pelúcia enquanto pessoas passam ao redor.",
+			"Ela ainda espera. Sentada nos degraus, com o boneco no colo, enquanto o movimento ao redor segue sem pausar por ela. A mãe vai chegar? Não. Mas ela continua à esperar.",
 		accent: "#C8A090",
 		image: photo3,
 	},
@@ -37,7 +37,7 @@ const exhibitionPhotos = [
 		id: 4,
 		title: "Laços rompidos",
 		caption:
-			"Um bicho-preguiça de pelúcia cor-de-rosa ao lado de tênis Converse pretos — infância e adolescência sobrepostas.",
+			"O que a falta pode fazer é tão tangível quanto é difícil amarrar um tênis. Cadarços soltos deixados ao relento transformam a narrativa da necessidade de algo tão básico em um empecilho para continuar essa caminhada.",
 		accent: "#D4B8A8",
 		image: photo4,
 	},
@@ -45,7 +45,7 @@ const exhibitionPhotos = [
 		id: 5,
 		title: "Pesar",
 		caption:
-			"Menina de costas projeta uma sombra gigante na parede; brinquedos e um cartaz ao chão.",
+			"Existe brincadeira sem diversão, desenhos sem cor e uma vida tão cinza vinda da admiração de alguém que jamais olhará nos olhos. Encara uma visão tão pouco lúdica e tão divina que o ser intangível não chega a ser uma memória, mas quase um sentimento.",
 		accent: "#B0A0C0",
 		image: photo5,
 	},
@@ -53,7 +53,7 @@ const exhibitionPhotos = [
 		id: 6,
 		title: "Babá",
 		caption:
-			"Figura de costas diante de uma TV ligada no escuro; um bicho-preguiça lilás e embalagens descartadas ao redor.",
+			"Não uma distração, uma nova forma de afeto. Quem cuida quando ninguém mais volta, quando a ausência não se torna eventual, mas rotina. E quando não existe nada mais além de uma tela piscando incontáveis cores para distrair uma mente infantil que não sente a atenção maternal… o calor vira algo bem frio.",
 		accent: "#9090C0",
 		image: photo6,
 	},
