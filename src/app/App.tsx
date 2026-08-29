@@ -585,19 +585,6 @@ export default function App() {
 				/>
 
 				<div className="px-6 pb-10 pt-10 relative z-10">
-					<p
-						style={{
-							fontFamily: "'DM Sans', sans-serif",
-							color: "#8A8A8A",
-							fontSize: "10px",
-							letterSpacing: "0.2em",
-							textTransform: "uppercase",
-							marginBottom: "32px",
-						}}
-					>
-						FOTOGRAFIA NA INDUSTRIA CRIATIVA - PUCRS
-					</p>
-
 					<div style={{ marginBottom: "40px" }}>
 						<div
 							style={{
@@ -643,18 +630,6 @@ export default function App() {
 							</h1>
 						</div>
 					</div>
-
-					<p
-						style={{
-							fontFamily: "'DM Sans', sans-serif",
-							color: "#8A8A8A",
-							fontSize: "11px",
-							letterSpacing: "0.15em",
-							textTransform: "uppercase",
-						}}
-					>
-						Bárbara · Carlos · Julia · Laura · Rafael
-					</p>
 				</div>
 			</section>
 
@@ -852,16 +827,6 @@ export default function App() {
 
 					<div className="flex flex-col gap-4">
 						{[
-							{
-								icon: "📍",
-								label: "Local",
-								value: "FAMECOS, PUCRS",
-							},
-							{
-								icon: "🕐",
-								label: "Horário",
-								value: "8h · 11 de junho",
-							},
 							{
 								icon: "♿",
 								label: "Acessibilidade",
@@ -1072,24 +1037,6 @@ export default function App() {
 					>
 						Grupo
 					</p>
-					{[
-						"Bárbara Valério Jardim",
-						"Carlos Alberto Lemos Ott",
-						"Júlia Bernardes Madruga",
-						"Laura Rajchenberg",
-						"Rafael de Oliveira Nogueira",
-					].map((name) => (
-						<p
-							key={name}
-							style={{
-								fontFamily: "'DM Sans', sans-serif",
-								fontSize: "14px",
-								color: "#D0CCC4",
-							}}
-						>
-							{name}
-						</p>
-					))}
 				</div>
 
 				<p
